@@ -4,7 +4,7 @@
 
 ## 1. Introducción
 
-Este documento especifica la arquitectura e implementación de un sistema de gestión de estado reactivo y modular para aplicaciones JavaScript sin framework. El sistema combina el patrón Observador para reactividad con inmutabilidad estructural mediante Immer, proporcionando una solución completa para la gestión de estado en aplicaciones de cualquier escala.
+Este documento especifica la arquitectura e implementación de Pulsar - un sistema de gestión de estado reactivo y modular para aplicaciones JavaScript sin framework. El sistema combina el patrón Observador para reactividad con inmutabilidad estructural mediante Immer, proporcionando una solución completa para la gestión de estado en aplicaciones de cualquier escala.
 
 ### 1.1. Objetivos del Sistema
 

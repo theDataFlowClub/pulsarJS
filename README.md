@@ -1,14 +1,18 @@
-# ⚡ Pulsar
+<img src="https://raw.githubusercontent.com/theDataFlowClub/pulsarJS/refs/heads/null_hyp/img/iconName-2.png" width="200px">
 
-**Gestión de Estado Reactiva, Modular y Atómica.**
+*Gestión de Estado Reactiva, Modular y Atómica.*
 
-> *Sin reducers. Sin boilerplate. Solo señales puras.*
+<br>
 
 **Pulsar** es un sistema de gestión de estado para JavaScript diseñado bajo una premisa simple: el estado de tu aplicación debe ser el **corazón rítmico** que emite señales de cambio, no un laberinto de complejidad.
 
 Inspirado en el patrón **Observador**, Pulsar actúa como una fuente de verdad centralizada que emite "pulsos" de actualización a tus componentes solo cuando es necesario, manteniendo tu lógica de negocio desacoplada y tu UI sincronizada.
 
 ## ¿Por qué Pulsar?
+
+>
+> *Sin reducers. Sin boilerplate. Solo señales puras.*
+>
 
 A diferencia de las grandes librerías monolíticas, Pulsar se enfoca en la **modularidad a través de Factory Functions**.
 
